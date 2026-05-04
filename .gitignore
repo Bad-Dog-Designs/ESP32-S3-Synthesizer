@@ -1,0 +1,5 @@
+# Ignore backup zips
+*.zip
+
+# Optional: backup folders
+*-backups/
